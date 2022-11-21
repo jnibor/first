@@ -1,0 +1,57 @@
+body {margin: 0; text-align: center; font-family: 'Merriweather', serif;}
+
+.top-container {background-color: #E6E7E5; position: relative; padding-top: 160px;}
+
+h1 {margin: 50px auto 0 auto; text-align: center; font-family: 'Sacramento', cursive;font-size: 5rem; line-height: 2}
+
+h2 {font-size: 2rem; font-weight: normal}
+
+h1, h2 {color: #7D8F69}
+
+h3, a {color: #557153}
+
+.svitra {margin: 5px 5px 0 5px; border-top: 5px solid black; border-left: 5px solid black; border-right: 5px solid black;}
+
+.svitra1 {margin: 0 5px 0 5px; border-left: 5px solid black; border-right: 5px solid black;}
+
+.top-cloud {padding-left: 600px;}
+
+.bottom-cloud {position: absolute;}
+
+h2, a {font-family: 'Montserrat', sans-serif;}
+
+.mountain {width: 40%; height: 40%}
+
+.cat-cooking {width: 20%;float: left; margin-right: 30px}
+
+.mypic {height: 200px; width: 200px; border-radius: 100px; padding-top: 20px;}
+
+.table1 {padding-left: 600px; width: auto; padding-bottom: 20px; text-align: justify;}
+
+.stars {font-size: 150%; color: #F2D388;}
+
+.hamburger {width: 15%; float: right; margin-left: 30px; margin-bottom: 5px}
+
+.skill-row {width: 50%; margin: 100px auto; text-align: left; line-height: 2}
+
+.bottom-container {background-color: #E6E7E5; padding: 50px 0 20px; position: relative}
+
+.contact-me {margin: 40px auto 60px auto; line-height: 2; width: 40%}
+
+.btn {  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background:  #61A4BC;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;}
+
+hr {border: dotted #EAF6F6 18px; border-bottom: none; width: 4%}
+
+a {margin-left: 15px; text-decoration: none}
+
+a:hover {color: white}
+
+.copyright {color: black; font-size: 0.75rem}
